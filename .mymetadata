@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SimpleHttpServer"
+  id="myeclipse.1552293510028"
+  context-root="/SimpleHttpServer"
+  j2ee-spec="5.0"
+  archive="SimpleHttpServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
